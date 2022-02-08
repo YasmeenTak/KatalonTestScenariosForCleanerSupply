@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SuccessMessage</name>
+   <tag></tag>
+   <elementGuidId>f2081c8d-5728-4b7e-b481-7fcfb8e31e6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span[class=&quot;success-message&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class=&quot;success-message&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_colorGroupCollapse</name>
+   <tag></tag>
+   <elementGuidId>0a53651a-8393-4e6a-b9a3-df4b4cecea16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>div[href=&quot;#collapse5&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div[href=&quot;#collapse7&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
